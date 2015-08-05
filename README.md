@@ -1,7 +1,7 @@
 # Jsone
 
-Jsone is a function that can be used to dive into `map[string]interface{}` that represent a json structure.
-It's simple to use and straight forward. Not yet fully tested but it will be, and it worked so far.
+`Jsone.Dive()` is a function that can be used to dive into `map[string]interface{}` that represent a json structure and read a node.
+It's simple to use and straight forward. Not yet fully tested, still WIP but it worked so far.
 
 ## Getting started
 
